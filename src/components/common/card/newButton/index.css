@@ -1,0 +1,15 @@
+.button{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    padding: 20px;
+}
+
+.buttonClick{
+    padding: 20px 60px;
+    border-radius: 20px;
+    border: none;
+    background-color: pink;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px rgb(216, 153, 163);
+}
