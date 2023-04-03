@@ -1,0 +1,44 @@
+.mainContainer {
+  font-size: 1.1rem;
+  display: flex;
+  margin-top: 2%;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 2%;
+}
+/* 
+
+.productsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+}
+.navLink {
+  text-decoration: none;
+}
+
+.img {
+  width: 80px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-basis: 30%;
+  border: 1px solid grey;
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-bottom: 5px;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+}
+
+.cartCount {
+  font-weight: bold;
+} */
