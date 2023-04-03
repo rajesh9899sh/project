@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
-import Navbar from "../components/Products/Navbar";
 import Cart from "../Pages/Cart";
 import Home from "../Pages/Home";
+import Navbar from "../components/products/Navbar";
 
 const AppRouter = () => {
   return (
